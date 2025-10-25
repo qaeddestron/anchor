@@ -2,7 +2,7 @@
 
 **Decentralized financial backbone for emerging markets.**
 
-Issues SUSD, SEUR, SNGN, SAED stablecoins on EVM (BSC, Polygon, Base) + Solana.  
+Issues SUSD, SEUR, SNGN, SAED, and other stablecoins on EVM (BSC, Polygon, Base) + Solana.  
 Bridges fiat and DeFi via Stabil Banking App + Wallet.
 
 ---
